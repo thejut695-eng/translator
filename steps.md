@@ -8,6 +8,7 @@ step 4: activate the virtual environment
 step 5: install django
  -  'pip install django'
 step 6: create a django project
+ - 'django-admin startproject translator'
 step 7: create a django app
 step 8: create a model
 step 9: create a view
